@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ahora si
+=======
+Este es mi conflicto
+>>>>>>> a90ef55b57383edfafcfd483138589cdf38150c4
